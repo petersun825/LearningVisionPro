@@ -13,6 +13,8 @@ struct MainApp: App {
         WindowGroup {
             ContentView()
         }
-        
+        ImmersiveSpace(id:"HandView"){
+            HandView()
+        }
     }
 }

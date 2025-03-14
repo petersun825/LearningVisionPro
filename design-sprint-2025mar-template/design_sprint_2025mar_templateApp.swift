@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-@main
+
 struct design_sprint_2025mar_templateApp: App {
 
     @State private var appModel = AppModel()
